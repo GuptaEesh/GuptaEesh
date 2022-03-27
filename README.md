@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuptaEesh&label=Profile%20views&color=0e75b6&style=flat" alt="Eeshgupta" /> </p>
 
-<p><a href="https://twitter.com/ra1711003010629" target="blank"><img src="https://img.shields.io/twitter/follow/ra1711003010629?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="Eeshgupta" /></a> </p>
+<p><a href="https://twitter.com/ra1711003010629" target="_blank"><img src="https://img.shields.io/twitter/follow/ra1711003010629?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="Eeshgupta" /></a> </p>
 
 <h3>Here are some facts about me:</h3>
 
@@ -12,12 +12,12 @@
 - 🌱 Learning to build with **React**
 
 <h3>Find out about my professional life here:</h3>
-<a href="https://www.linkedin.com/in/eesh-gupta-42673a144/"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
+<a href="https://www.linkedin.com/in/eesh-gupta-42673a144/" target="_blank"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/ra1711003010629"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a>
-<a href="https://webdevjourney.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a>
+<a href="https://twitter.com/ra1711003010629" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a>
+<a href="https://webdevjourney.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a>
 
 <br />
 
